@@ -23,4 +23,4 @@ Extract the folder and ```cd``` into it
     ``` node commands.js getIssue <year> <issueDate>```
 
     eg:``` node commands.js getIssue 2011 "September 04, 2011" ```
-    //the issueDate should to be exactly as it is in organier.org archives or the json files.
+    //the issueDate should to be exactly as it is in organiser.org archives or the json files.
